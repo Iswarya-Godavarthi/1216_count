@@ -1,0 +1,27 @@
+.helo {
+    font-size: 120px;
+    font-family: roboto;
+    font-weight: 50;
+    
+}
+.con {
+    font-size: 60px;
+    color :coral;
+    font-style: italic;
+    text-decoration : underline;
+}
+.btn {
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 10px ;
+    color:crimson;
+    font-family:'Courier New', Courier, monospace;
+    
+
+}
+.can{
+    text-align: center;
+}
+
+
